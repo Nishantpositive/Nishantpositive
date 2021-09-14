@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "4df333031459570c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3484e4742168784f",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "598c676034eb193a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ce96ab9695356222",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "513af17e0ce73af5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2176e0d42e61678d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ce11fb4b1229b6f1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": true,
+            "extraContext": true,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "18d4a69a4e7d95a0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "5272e754c82327f4",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "active": "3484e4742168784f",
+  "lastOpenFiles": [
+    "Fleeting Notes/Jharkhand Notes/Environment Related Facts .md",
+    "Fleeting Notes/Jharkhand Notes/Jharkhand Andolan/Untitled.md",
+    "Excalidraw/Drawing 2021-09-14 19.48.35.excalidraw.md",
+    "Excalidraw/Drawing 2021-09-14 19.29.13.excalidraw.md",
+    "Projects/Untitled.md",
+    "Excalidraw/Drawing 2021-09-14 18.47.59.excalidraw.md",
+    "Margin note/Untitled.md",
+    "Journal.md",
+    "Excalidraw/Drawing 2021-09-13 14.17.44.excalidraw.md",
+    "Excalidraw/Drawing 2021-09-13 14.16.10.excalidraw.md"
+  ]
+}

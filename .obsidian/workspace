@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "296f3f285e35ac5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2bd710b0543c0bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notion Brain/Fleeting Notes/Jharkhand Notes/Jharkhand.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b952b55b78590fe8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notion Brain/Fleeting Notes/Jharkhand Notes/Jharkhand's Land Related Laws.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61d131809834a851",
+    "type": "split",
+    "children": [
+      {
+        "id": "53579fc8c2e42967",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b677405eac52bc7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "28ed53f4516d91cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"Chotanagpur Tenancy Act or CNT\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9069ca66697166ad",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289
+  },
+  "right": {
+    "id": "b60421ee45147d65",
+    "type": "split",
+    "children": [
+      {
+        "id": "025569b4c281a364",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ee98ced4cb13e4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notion Brain/Fleeting Notes/Jharkhand Notes/Jharkhand's Land Related Laws.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58600bd07afc1c71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d89014000b4f81a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fdf9a06b4048076d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbfa6664bc56412e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b952b55b78590fe8",
+  "lastOpenFiles": [
+    "Notion Brain/Fleeting Notes/Jharkhand Notes/Jharkhand's Land Related Laws.md",
+    "Notion Brain/Fleeting Notes/Jharkhand Notes/Jharkhand.md",
+    "Notion Brain/Fleeting Notes/Jharkhand Notes/Jharkhand's Land Related Laws/Chotanagpur Tenancy Act or CNT cfd880bd88074a44a29181bcc55f0e4a.md",
+    "Chotanagpur Tenancy Act or CNT.md",
+    "Notion Brain/Fleeting Notes/_Index_of_Fleeting Notes.md",
+    "Notion Brain/Fleeting Notes/Jharkhand Notes/Jharkhand's Land Related Laws/Chotanagpur Tenancy Act or CNT.md"
+  ]
+}
